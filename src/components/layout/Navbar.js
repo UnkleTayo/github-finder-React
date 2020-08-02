@@ -23,8 +23,8 @@ const Navbar = ({ icon, title }) => {
 };
 
 Navbar.defaultPops = {
-  title: 'Github Finder',
-  icon: 'fab fa-github mr-2',
+  title: 'Github User Finder',
+  icon: 'fab fa-github mx-4',
 };
 
 Navbar.propTypes = {
